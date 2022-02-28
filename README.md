@@ -13,5 +13,3 @@ Praticando o Aprendizado:
 -Usar icones em ImageViews
 -Uso de Material Design
 -Primeiros passos com Debuger 
-
-Desenvolvido por: Gledson Luan
